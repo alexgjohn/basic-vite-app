@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Alright mate.
+        Alright mate. Life is a constant struggle when you have merge conflicts.
       </p>
     </>
   )
